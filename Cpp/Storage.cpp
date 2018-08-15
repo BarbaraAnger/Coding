@@ -1,7 +1,7 @@
 /*
 * Author: Barbara Anger
 * Year: 2018
-* Copyright, all rights reserved *
+*** Copyright. All rights reserved ***
 */
 #include <iostream>
 using namespace std;
