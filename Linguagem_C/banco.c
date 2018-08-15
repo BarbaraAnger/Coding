@@ -1,7 +1,7 @@
 /*
-Autora: Bárbara Anger
-Ano: 2018
-Todos os direitos reservados
+* Author: Barbara Anger
+* Year: 2018
+*** Copyright. All rights reserved ***
 */
 #include <stdio.h>
 int main() {
