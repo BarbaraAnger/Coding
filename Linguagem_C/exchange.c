@@ -8,9 +8,12 @@
 #include <stdio.h>
 int main(){
     int x, y;
+    printf("Digite dois valores:\n");
+    scanf("%d", &x);
+    scanf("%d", &y);
     x = x + y;
     y = x - y;
     x = x - y;
-    printf("As variaveis agora são x = %d e y = %d", x, y);
+    printf("As variaveis agora sC#o x = %d e y = %d", x, y);
     return 0;
 }
