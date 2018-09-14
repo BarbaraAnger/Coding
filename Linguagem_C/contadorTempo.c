@@ -1,7 +1,6 @@
 /*
-* Author: Barbara Anger
-* Year: 2018
-*** Copyright. All rights reserved ***
+Author: Barbara Anger
+2018. Copyright. All Rights reserved.
 */
 
 #include <stdio.h>
