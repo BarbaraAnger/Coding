@@ -1,8 +1,6 @@
 /*
-* Author: Barbara Anger
-* Year: 2018
-* Algorithm to exchange variables without declaring a third one
-*** Copyright. All rights reserved ***
+Author: Barbara Anger
+2018. Copyright. All Rights reserved.
 */
 import java.util.Scanner;
 
