@@ -1,5 +1,5 @@
 /*
-Author: Barbara Anger
+@author Barbara Anger
 2018. Copyright. All Rights reserved.
 */
 #include <stdio.h>
