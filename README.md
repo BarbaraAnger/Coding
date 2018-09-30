@@ -20,6 +20,4 @@ version)
 
 ### License
 This repository is licensed by MIT.
-Read this 
-[file](https://github.com/BarbaraAnger/Coding/LICENSE) 
-to obtain more information.
+Read [this](https://github.com/BarbaraAnger/Coding/blob/master/LICENSE) file to obtain more information.
