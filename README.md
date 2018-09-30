@@ -1,10 +1,12 @@
 # College
-* C Language
+* [C 
+Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 	- Somethings from college
-* Java
-	- Remote Control
+* [Java](https://github.com/BarbaraAnger/Coding/tree/master/Java)
+	- Remote Control (in progress)
 	- Lamp
-* C++
+* [C++](https://github.com/BarbaraAnger/Coding/tree/master/Cpp)
+
 * C# (still on progress)
 
 ### Introduction
