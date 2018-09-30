@@ -1,8 +1,7 @@
-/*
-* Author: Barbara Anger
-* Year: 2018
-*** Copyright. All rights reserved ***
-*/
+/****************************
+Copyright © 2018 Barbara Anger. All rights reserved.
+e-mail: barbaraanger@hotmail.com
+****************************/
 #include <iostream>
 using namespace std;
 
