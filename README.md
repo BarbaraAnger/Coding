@@ -15,5 +15,5 @@ sometimes it's useless.
 * [Visual Studio Code](https://visualstudio.microsoft.com/) - IDE (last 
 version)
 ### Pre-requirements
-- [Git installed](https://git-scm.com/downloads)
-- [GitHub account](https://github.com/)
+* [Git installed](https://git-scm.com/downloads)
+* [GitHub account](https://github.com/)
