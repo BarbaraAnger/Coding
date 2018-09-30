@@ -12,7 +12,8 @@ I've created this repo to save all the things from college, even though
 sometimes it's useless.
 
 ### Resources
-* [Visual Studio Code] - IDE (last version)
+* [Visual Studio Code](https://visualstudio.microsoft.com/) - IDE (last 
+version)
 ### Pre-requirements
-- [Git installed]
-- [GitHub account]
+- [Git installed](https://git-scm.com/downloads)
+- [GitHub account](https://github.com/)
