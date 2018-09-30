@@ -7,6 +7,4 @@
 
 
 ## License MIT
-
-
-
+###### Copyright (c) 2018 Bárbara Anger
