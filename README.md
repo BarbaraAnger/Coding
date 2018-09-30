@@ -2,7 +2,9 @@
 * C Language
    1. Somethings from college
 * Java
-	1. Remote Control
-	2. Lamp
+	- Remote Control
+	- Lamp
 * C++
 * C# (still on progress)
+
+## Introduction
