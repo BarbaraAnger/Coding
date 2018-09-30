@@ -17,3 +17,9 @@ version)
 ### Pre-requirements
 * [Git installed](https://git-scm.com/downloads)
 * [GitHub account](https://github.com/)
+
+### License
+This repository is licensed by MIT.
+Read this 
+[file](https://github.com/BarbaraAnger/Coding/LICENSE) 
+to obtain more information.
