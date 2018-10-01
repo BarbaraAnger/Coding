@@ -1,4 +1,4 @@
-# College
+# Coding
 * [C 
 Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 	- Somethings from college
@@ -10,8 +10,8 @@ Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 * C# (still on progress)
 
 ### Introduction
-I've created this repo to save all the things from college, even though 
-sometimes it's useless.
+I've created this repo to save somethings I think it's cool. It used to 
+be just from college, but I'll save my works, too.
 
 ### Resources
 * [Visual Studio Code](https://visualstudio.microsoft.com/) - IDE (last 
