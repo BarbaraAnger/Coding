@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 #include <math.h>
 #include <string.h>
-
+// Trabalho feito por: Barbara Anger e Guilherme Guezzi
 static int opposite(int x, int basis);
 static int dectoBasis(int x, int basis);
 int val(char b);
 
-void main() {
+int main() {
     int num, b;
     printf("Digite o numero em decimal a ser convertido:\n");
     scanf("%d", &num);
@@ -19,9 +18,10 @@ void main() {
         num = dectoBasis(num, b);
         num = opposite(num, b);
     }
+    return 0;
 }
 static int dectoBasis(int x, int basis) {
-    char* binary[8], org = x, t=0;
+    int binary[8], org = x, t=0;
     int i = 0, arm = 0;
     if (x<0) {
         x = x * (-1);
@@ -53,15 +53,15 @@ static int dectoBasis(int x, int basis) {
         }
         return arm;
     }
-static int opposite(int x, int basis) { // binario para decimal
+static int opposite(int x, int basis) { // base para decimal
      int num=0, aux=0, i = 0;
-     bool neg;
+     int neg;
      long int org = x, aux2 = x;
      while(i<7) {
             if(aux2%10!=0) {
-                neg = true;
+                neg = 1;
             } else {
-                neg = false;
+                neg = 0;
             }
         i++;
      }
@@ -71,13 +71,14 @@ static int opposite(int x, int basis) { // binario para decimal
             aux++;
             x = x/10;
         }
+        num = num * -1;
      } else {
          while(x != 0) {
             num = num + (x%10) * pow(2,aux);
             aux++;
             x = x/10;
         }
-        num = num * (-1);
+        num = num * (1);
      }
 
     printf("O numero (%d)%d em decimal fica (%d)10\n", org, basis, num);

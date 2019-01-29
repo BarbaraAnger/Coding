@@ -14,8 +14,6 @@ int main(){
         } else if(x>0) {
             cout << x+1 << "º valor: " << storage[x] << endl; //print of the rest
         }
-        
     }
-    
     return 0;
 }
