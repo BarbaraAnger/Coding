@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 public class Biblioteca {
     public final int MAX_LIVROS = 100;
-
     ArrayList<Livro> livros;
     public Biblioteca () {
         num_livros = 0;
@@ -18,11 +17,26 @@ public class Biblioteca {
                 
                 return null;
         }
+        this.status = false;
     }
     public void printLista(){
         for(int i=0; i<livros.size();i++){
             System.out.println(livros.get(i).getTitulo());
         }
+    }
+    public ArrayList<Livro> retirar(String titulo){
+        ArrayList<Livro> list = new ArrayList<Livro>();
+        for(Livro livro: livros){
+            if(livro!=null && status!=true){
+                if(livro.getTitulo().indexOf(titulo)>= 0){
+                    list.add(livro);
+                }
+                status = true;
+            }
+            else System.out.println("Livro não disponível.");
+        }
+        
+        return list;
     }
     public int numeroLivros(){
         num_livros = livros.size();
@@ -82,9 +96,10 @@ public class Livro {
         this.emprestado_para = emprestado_para;
     }
 }
-public class Menu {
+public class Biblioteca {
     public static void main(String[] args) {
         System.out.println("O que deseja fazer?\n");
+        System.println("6 - Lista de livros");
         System.println("1 - Doar um livro");
         System.println("2 - Retirar um livro");
         System.println("3 - Devolver um livro");
@@ -95,6 +110,8 @@ public class Menu {
         boolean keep = true;
         do {
             switch(opcao.nextInt()) {
+                case 6:
+                    bi1.printLista();
                 case 1:
                     System.out.println("Digite o número do livro:");
                     b1 = opcao.nextLine();
