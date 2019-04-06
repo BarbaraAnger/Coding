@@ -8,6 +8,7 @@ Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 * [C++](https://github.com/BarbaraAnger/Coding/tree/master/Cpp)
 
 * C# (still on progress)
+* JavaScript
 
 ### Introduction
 I've created this repo to save somethings I think it's cool. It used to 
