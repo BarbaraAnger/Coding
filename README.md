@@ -11,13 +11,13 @@ Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 * [JavaScript](https://github.com/BarbaraAnger/Coding/tree/master/JavaScript)
 
 ### Introduction
-I've created this repo to save somethings I think it's cool. It used to 
-be just from college, but I'll save my works, too.
-This documentation is available also on [this link](https://barbaraanger.github.io/Coding/)
+This repo is to explore the possibilities of my skills. This repo might not make any sense, but that's it.
+This documentation is available also on [this link](https://barbaraanger.github.io/Coding/).
 
 ### Resources
 * [Visual Studio Code](https://visualstudio.microsoft.com/) - IDE (last 
 version)
+
 ### Pre-requirements
 * [Git installed](https://git-scm.com/downloads)
 * [GitHub account](https://github.com/)
