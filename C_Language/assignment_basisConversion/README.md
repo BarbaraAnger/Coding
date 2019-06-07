@@ -1,22 +1,22 @@
-# Conversão de Bases
-### Decimal para binário & octal
-* Decimal para Octal
-  - Octal para decimal
-* Decimal para Binário
-  - Binário para Decimal
-* Binário para Octal & Octal para binário
-# Recursos necessários:
+# Base Conversion
+### Decimal to binary & octal
+* Decimal to Octal
+  - Octal to decimal
+* Decimal to Binary
+  - Binary to Decimal
+* Binary to Octal & Octal to binary
+# Necessary Resources:
 * Git Bash
-* CodeBlocks ou Linux bash
+* CodeBlocks or Linux bash
 
-# Instruções
-* Para clonar, estando na pasta que deseja que o projeto seja clonado:
+# Instructions
+* To clone, being in the dir you want it to be cloned:
   - ```git clone https://github.com/BarbaraAnger/Coding```
   - ```cd  Coding/C_Language_/assignment_basisConversion/```
   
-* Para compilação:
-  - Console bash: ``` gcc t1.c -o programaCompilado ```
+* For compilation:
+  - Bash Console: ``` gcc t1.c -o programaCompilado ```
   - CodeBlocks: ```build``` botão.
-* Para executar:
-  - Console bash: ``` ./programaCompilado ```
-  -  CodeBlocks: ```Run``` botão.
+* To execute:
+  - Console bash: ``` ./compiledProgram ```
+  -  CodeBlocks: ```Run``` button.
