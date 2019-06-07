@@ -11,8 +11,8 @@
 
 # Instructions
 * To clone, being in the dir you want it to be cloned:
-  - ```git clone https://github.com/BarbaraAnger/Coding```
-  - ```cd  Coding/C_Language_/assignment_basisConversion/```
+  - ```git clone https://github.com/BarbaraAnger/Training```
+  - ```cd  Training/C_Language_/assignment_basisConversion/```
   
 * For compilation:
   - Bash Console: ``` gcc t1.c -o programaCompilado ```
