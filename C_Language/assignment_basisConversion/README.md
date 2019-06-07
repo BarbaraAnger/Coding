@@ -18,5 +18,5 @@
   - Bash Console: ``` gcc t1.c -o programaCompilado ```
   - CodeBlocks: ```build``` botão.
 * To execute:
-  - Console bash: ``` ./compiledProgram ```
+  - Bash console: ``` ./compiledProgram ```
   -  CodeBlocks: ```Run``` button.
