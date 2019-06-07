@@ -11,9 +11,8 @@
 
 # Instruções
 * Para clonar, estando na pasta que deseja que o projeto seja clonado:
-  - ```git init ```
-  - ```git remote add origin master https://github.com/BarbaraAnger/conversaoDeBases.git```
-  - ```git clone https://github.com/BarbaraAnger/conversaoDeBases.git```
+  - ```git clone https://github.com/BarbaraAnger/Coding```
+  - ```cd  Coding/C_Language_/assignment_basisConversion/```
   
 * Para compilação:
   - Console bash: ``` gcc t1.c -o programaCompilado ```
