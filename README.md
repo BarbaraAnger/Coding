@@ -6,6 +6,7 @@ Language](https://github.com/BarbaraAnger/Coding/tree/master/C_Language)
 * [Java](https://github.com/BarbaraAnger/Coding/tree/master/Java)
 	- Remote Control (in progress)
 	- Lamp
+	- [Collatz Algorithm](https://github.com/BarbaraAnger/Training/blob/master/Java/Collatz.java)
 	
 * [C++](https://github.com/BarbaraAnger/Coding/tree/master/Cpp)
 
