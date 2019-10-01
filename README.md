@@ -25,6 +25,8 @@ version)
 ### Pre-requirements
 * [Git installed](https://git-scm.com/downloads)
 * [GitHub account](https://github.com/)
+* [Intellij](https://www.jetbrains.com/idea/) (Recomended for Java)
+* [VSCode](https://code.visualstudio.com/) (Recomended for c/c++ or frontend)
 
 ### License
 This repository is licensed by MIT.
