@@ -1,6 +1,6 @@
 
 class Lampada {
-  public bool isOn;
-  public string color;
-  public integer volt;
+  public boolean isOn;
+  public String color;
+  public int volt;
 }
